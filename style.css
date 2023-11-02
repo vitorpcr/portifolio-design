@@ -1,0 +1,377 @@
+.main {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.main .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 3970px;
+  position: relative;
+}
+
+.main .front-end {
+  position: absolute;
+  width: 1920px;
+  height: 1138px;
+  top: 2760px;
+  left: 0;
+}
+
+.main .perfil {
+  position: absolute;
+  width: 1440px;
+  height: 906px;
+  top: 0;
+  left: 240px;
+  overflow: hidden;
+}
+
+.main .menu {
+  position: absolute;
+  width: 723px;
+  height: 681px;
+  top: 38px;
+  left: 39px;
+  overflow: hidden;
+}
+
+.main .overlap {
+  position: absolute;
+  width: 726px;
+  height: 594px;
+  top: 64px;
+  left: -3px;
+}
+
+.main .VITOR-PETIND {
+  position: absolute;
+  width: 691px;
+  top: 0;
+  left: 35px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 600;
+  color: #1e1c1c;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: 140px;
+}
+
+.main .group {
+  position: absolute;
+  width: 668px;
+  height: 485px;
+  top: 108px;
+  left: 0;
+}
+
+.main .overlap-group {
+  position: relative;
+  width: 665px;
+  height: 485px;
+  left: 3px;
+}
+
+.main .rectangle {
+  position: absolute;
+  width: 615px;
+  height: 20px;
+  top: 465px;
+  left: 50px;
+  background-color: #1f1c1c;
+}
+
+.main .designer-bro {
+  position: absolute;
+  width: 641px;
+  height: 471px;
+  top: 0;
+  left: 0;
+}
+
+.main .text-wrapper {
+  position: absolute;
+  width: 342px;
+  height: 62px;
+  top: 2px;
+  left: 32px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 400;
+  color: #2e2727;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .menu-xp {
+  position: absolute;
+  width: 706px;
+  height: 112px;
+  top: 38px;
+  left: 773px;
+}
+
+.main .p {
+  position: absolute;
+  width: 130px;
+  top: 15px;
+  left: 57px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .UX-UI-designer-FIGMA {
+  position: absolute;
+  width: 195px;
+  top: 23px;
+  left: 489px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .fashion-designer {
+  position: absolute;
+  width: 186px;
+  top: 18px;
+  left: 267px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .graphic-DESIGNER-wrapper {
+  position: absolute;
+  width: 637px;
+  height: 283px;
+  top: 503px;
+  left: 803px;
+}
+
+.main .graphic-DESIGNER {
+  position: absolute;
+  width: 560px;
+  height: 243px;
+  top: 23px;
+  left: 76px;
+}
+
+.main .menu-2 {
+  position: absolute;
+  width: 519px;
+  height: 154px;
+  top: 722px;
+  left: 39px;
+}
+
+.main .mais-sobre-minhas {
+  position: absolute;
+  width: 241px;
+  top: 20px;
+  left: 186px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #1e1c1c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .vector {
+  position: absolute;
+  width: 105px;
+  height: 118px;
+  top: 15px;
+  left: 45px;
+}
+
+.main .ux-design {
+  position: absolute;
+  width: 1920px;
+  height: 906px;
+  top: 906px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.main .menu-tx-ux {
+  position: absolute;
+  width: 304px;
+  height: 497px;
+  top: 295px;
+  left: 306px;
+}
+
+.main .element-ANO-DE-EXPRI-NCIA-wrapper {
+  position: absolute;
+  width: 288px;
+  height: 108px;
+  top: 0;
+  left: 1px;
+  background-color: #fffafa;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #00000040;
+}
+
+.main .element-ANO-DE-EXPRI-NCIA {
+  position: absolute;
+  width: 241px;
+  top: 14px;
+  left: 21px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .span {
+  color: #2e2727;
+}
+
+.main .text-wrapper-2 {
+  color: #a5a72b;
+}
+
+.main .n-VEL-AVAN-ADO-FIGMA-wrapper {
+  position: absolute;
+  width: 288px;
+  height: 108px;
+  top: 128px;
+  left: 1px;
+  background-color: #fffafa;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #00000040;
+}
+
+.main .n-VEL-AVAN-ADO-FIGMA {
+  position: absolute;
+  width: 241px;
+  top: 16px;
+  left: 21px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .overlap-2 {
+  position: absolute;
+  width: 290px;
+  height: 108px;
+  top: 256px;
+  left: 1px;
+}
+
+.main .rectangle-2 {
+  position: absolute;
+  width: 288px;
+  height: 108px;
+  top: 0;
+  left: 0;
+  background-color: #fffafa;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #00000040;
+}
+
+.main .FACILIDADE-EM-CRIA-o {
+  position: absolute;
+  width: 269px;
+  top: 11px;
+  left: 21px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .element-projetos-wrapper {
+  position: absolute;
+  width: 288px;
+  height: 108px;
+  top: 384px;
+  left: 1px;
+  background-color: #fffafa;
+  border-radius: 10px;
+  box-shadow: 4px 4px 4px #00000040;
+}
+
+.main .element-projetos {
+  position: absolute;
+  width: 154px;
+  top: 10px;
+  left: 21px;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 500;
+  color: #2e2727;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main .tx-ux {
+  position: absolute;
+  width: 1196px;
+  height: 152px;
+  top: 58px;
+  left: 306px;
+}
+
+.main .text-wrapper-3 {
+  position: absolute;
+  width: 851px;
+  height: 139px;
+  top: 6px;
+  left: 0;
+  font-family: "Be Vietnam Pro", Helvetica;
+  font-weight: 700;
+  color: #1f1c1c;
+  font-size: 120px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 140px;
+  white-space: nowrap;
+}
+
+.main .menu-img {
+  position: absolute;
+  width: 804px;
+  height: 579px;
+  top: 233px;
+  left: 715px;
+}
+
+.main .fashion-design {
+  position: absolute;
+  width: 1920px;
+  height: 948px;
+  top: 1812px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.main .menu-block {
+  position: absolute;
+  width: 1920px;
+  height: 948px;
+  top: 0;
+  left: 0;
+}
